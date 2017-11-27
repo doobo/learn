@@ -1,0 +1,8 @@
+target/
+learn.iml
+*.class
+learn.iml
+.idea/
+.settings/
+.classpath
+.project
